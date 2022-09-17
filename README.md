@@ -14,7 +14,7 @@ Hi, I'm Dc!
 <hr>
 
 ```
-I-am-vishalmaurya@github
+I-am-Loot-1.github.com
 -------------------------
 💻 I am a self taught a gamer developer
 🔭 Working on Deep Learning & Machine Learning
@@ -128,7 +128,7 @@ I-am-vishalmaurya@github
 </table>
 
 ------
-Credits: [I-am-vishalmaurya](https://github.com/I-am-vishalmaurya)
+
 Last Edited On: 18/04/2022
 
 
